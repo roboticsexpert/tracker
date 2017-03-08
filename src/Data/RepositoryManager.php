@@ -2,7 +2,7 @@
 
 namespace PragmaRX\Tracker\Data;
 
-use Illuminate\Routing\Router as IlluminateRouter;
+use Illuminate\Support\Facades\Route as IlluminateRouter;
 use Illuminate\Session\Store as IlluminateSession;
 use PragmaRX\Support\Config;
 use PragmaRX\Support\GeoIp\GeoIp;
