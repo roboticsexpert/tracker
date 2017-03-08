@@ -1,5 +1,5 @@
 {
-    "name": "pragmarx/tracker",
+    "name": "roboticsexpert/tracker",
 
     "description": "A Laravel Visitor Tracker",
 
@@ -9,9 +9,9 @@
 
     "authors": [
         {
-            "name": "Antonio Carlos Ribeiro",
-            "email": "acr@antoniocarlosribeiro.com",
-            "role": "Creator & Designer"
+            "name": "Mahdi Youseftabar",
+            "email": "roboticsexpert@gmail.com",
+            "role": "contribuiter"
         }
     ],
 
